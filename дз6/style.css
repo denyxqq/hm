@@ -1,10 +1,9 @@
 .logo{
-    width: 145px;
-    height: 31px;
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
+    line-height: 31px;
 }
 .adrs {
 width: 231px;
@@ -13,8 +12,14 @@ left: 215px;
 top: 2205px;
 }
 
-.footer{
+.ftr{
 width: 1600px;
 height: 252px;
-top: 2094px;
+background: #2F303A
+}
+a{
+    text-decoration: none;
+}
+ul,li{
+    text-decoration: none;
 }
