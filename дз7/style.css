@@ -12,3 +12,135 @@
   .box:active {
     background-color: green;
   }
+  .li1{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .li2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+  }
+  .li3{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+letter-spacing: 0.06em;
+  }
+  .li4{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+display: flex;
+align-items: center;
+letter-spacing: 0.06em;
+  }
+  .li5{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+  }
+  .li5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+  }
+  .li6{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.03em;
+  }
+  .li7{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+  }
+.li8{
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 7.5px;
+}
+.li9{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  line-height: 114px;
+  }
+  .li10{
+    font-family: 'Baloo 2';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+  }
+  .li11{
+flex-direction: row;
+padding: 0px 32px;
+gap: 32px;
+height: 323px;
+  }
+  .li12{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 100px;
+    font-size: 30px;
+    line-height: 100%;
+}
+.li13{
+  font-family: 'Visby CF';
+  font-style: normal;
+  font-weight: 100px;
+  font-size: 40px;
+  line-height: 89%;
+  text-transform: uppercase;
+}
+.li14{
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 50;
+font-size: 32px;
+line-height: 112%;
+text-transform: uppercase;
+}
+.li15{
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 40px;
+}
+.li16{
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+}
