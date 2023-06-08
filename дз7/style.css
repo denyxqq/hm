@@ -77,13 +77,6 @@ font-size: 14px;
 line-height: 24px;
 letter-spacing: 0.03em;
   }
-.li8{
-  display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 0px;
-gap: 7.5px;
-}
 .li9{
   font-family: 'Inter';
   font-style: normal;
@@ -101,27 +94,13 @@ gap: 7.5px;
     align-self: stretch;
     flex-grow: 0;
   }
-  .li11{
-flex-direction: row;
-padding: 0px 32px;
-gap: 32px;
-height: 323px;
-  }
   .li12{
     font-family: 'Roboto Condensed';
     font-style: normal;
     font-weight: 100px;
     font-size: 30px;
     line-height: 100%;
-}
-.li13{
-  font-family: 'Visby CF';
-  font-style: normal;
-  font-weight: 100px;
-  font-size: 40px;
-  line-height: 89%;
-  text-transform: uppercase;
-}
+  }
 .li14{
 font-family: 'Visby CF';
 font-style: normal;
